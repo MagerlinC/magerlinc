@@ -5,4 +5,4 @@ I highly value working in environments where drive, passion and ownership are va
 
 As a big believer in Conway's law, I've spent a fair amount of time researching, coaching and hosting talks about psychological safety in software teams. You can find my work and resources at [AddressTheElephant.io](https://addresstheelephant.io/)
 
-Outside of this, I'm a big enjoyer of all things music, mechanical keyboards, and tinkering with my development setup in NeoVim.
+Outside of this, I'm a big enjoyer of all things music, mechanical keyboards, tabletop roleplaying games, and tinkering with my development setup in NeoVim.
